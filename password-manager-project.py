@@ -1,4 +1,4 @@
-master_pwd = input("Enter the master's password: ").lower()
+master_pwd = input("Enter the master's password: ")
 
 def add():
     name = input('Account name: ')
